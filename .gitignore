@@ -59,4 +59,5 @@ Thumbs.db
 
 # Doxyfile
 Doxyfile
-html/*
+html/*html/
+latex/
